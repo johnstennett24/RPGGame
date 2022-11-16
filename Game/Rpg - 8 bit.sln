@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rpg - 8 bit", "Rpg - 8 bit.csproj", "{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{0E54F0DE-B59D-475F-A953-64B93A0AF7E0}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
